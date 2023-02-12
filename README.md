@@ -1,1 +1,1 @@
-# curso-python-jt
+# curso-python
