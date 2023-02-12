@@ -27,4 +27,4 @@ while abs(f) >= error:
 
 # OUTPUTS
 
-print("D =",round(D,2))
+print("D =", round(D,2))
