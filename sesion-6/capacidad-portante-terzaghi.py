@@ -1,8 +1,8 @@
 # INPUTS
 
-phi = int(float(input("Ángulo de fricción = ")))
+phi = int(float(input("Ángulo de fricción (°) = ")))
 c = float(input("c (t/m2) = "))
-gamma = float(input("Peso unitario (t/m3)= "))
+gamma = float(input("Peso unitario (t/m3) = "))
 B = float(input("B (m) = "))
 Df = float(input("Df (m) = "))
 
