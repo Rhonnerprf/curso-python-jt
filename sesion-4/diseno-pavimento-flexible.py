@@ -21,4 +21,4 @@ while abs(f) >= error:
 
 # OUTPUTS
 
-print("SN =", round(SN,2))
+print("SN =", round(SN, 2))
